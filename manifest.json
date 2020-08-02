@@ -1,13 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [{
-    "src": "logo192.png",
-    "type": "image/png",
-    "sizes": "192x192"
-  }],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+	"short_name": "Weather App",
+	"name": "Weather App By Yusuf Codes",
+	"icons": [{}],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
 }
